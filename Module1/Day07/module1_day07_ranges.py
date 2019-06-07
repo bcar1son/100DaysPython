@@ -32,4 +32,3 @@ elif request in in_range:
     print("{} is divisible by {}.".format(request, val))
 else:
     print("{} is not divisible by {}.".format(request, val))
-

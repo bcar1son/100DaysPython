@@ -37,5 +37,3 @@ print(cast)
 # delete an entire tuple
 del movie_list
 print(movie_list)
-
-

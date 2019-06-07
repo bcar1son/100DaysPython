@@ -1,11 +1,6 @@
 # Day 14: Module 1 Challenge
 **Instructions:** 
 1. Open a new python file.
-2. Create a program that records a collection of meals for a school cafeteria menu as well as the ingredients.  
-   i. This collection, of at least 5 meals, cannot be modified, but the ingredients for the meal can.  
-   ii. Add another five meals to the collection.  
-   iii. Print five results while skipping every other meal.  
-   iv. You realize you made a mistake with one of the meals and forgot the most important ingredient. Update the meal to add _creme fraiche_.  
-   v. You realize that all of these meals need a little _creme fraiche_. Use a loop to update all of these meals at once. Make sure you don't accidentally add too much _creme fraiche_. Each meal should only have it once in the ingredients list.  
-   vi. Finally, modify the program so each meal is printed with the name of the meal at the highest hierarchy and each ingredient is printed on its own line underneath the name of the meal. The ingredients should be indented to provide a natural understanding of which ingredients belong to which meal.
-3. Update the [log file](../../log.md) with what you have learned today.
+2. Create a program that iterates through a list of values. If the object is immutable, print the type and advance to the next step. If the object is mutable and a string, add "Allegedly" to the end. If the object is mutable and a number, take 10 (for an int) to 20 (for a float) percent off, print the new value, and overwrite the value in the existing position. If an object is not a string, number, or tuple, end the program immediately while displaying the object and the type for review.
+3. `content = ["Wayne is the toughest guy in Letterkenny.", list(range(0,101,10)), ("Wayne", "Dan", "Katy", "Daryl"), 10.4]`
+4. Update the [log file](../../log.md) with what you have learned today.
