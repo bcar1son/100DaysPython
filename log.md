@@ -44,24 +44,24 @@
 **Learned:** Indexing and slicing, need to figure out if print is required after every statement or if there should be output without it.
 
 # Day 10: If/Else
-**Completion Date:** 
+**Completion Date:** 2019-06-07 
 
-**Learned:** 
+**Learned:** If/else conditional arguments.
 
 # Day 11: Augmented Assignments
-**Completion Date:** 
+**Completion Date:** 2019-06-11 
 
-**Learned:** 
+**Learned:** Several types of augmented assignment operators.
 
 # Day 12: For/While Loops
-**Completion Date:** 
+**Completion Date:** 2019-06-11
 
-**Learned:** 
+**Learned:** How to use for and while loops.
 
 # Day 13: Continue/Break
-**Completion Date:** 
+**Completion Date:** 2019-06-12 
 
-**Learned:** 
+**Learned:** Continue and break actions.
 
 # Day 14: Module 1 Challenge
 **Completion Date:** 

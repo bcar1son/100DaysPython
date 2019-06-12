@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e17ebb11-c973-49e8-8689-8c4ad0897429" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Module1/Day03/module1_day03_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day03/module1_day03_operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day04/module1_day04_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day04/module1_day04_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day05/module1_day05_strFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day05/module1_day05_strFormat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day06/module1_day06_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day06/module1_day06_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day07/module1_day07_ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day07/module1_day07_ranges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day08/module1_day08_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day08/module1_day08_tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Day10/M01D10_ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Day11/MO1D11_augAssign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Day12/M01D12_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Day13/M01D13_continueBreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Day14/M01D14_challenge_soln.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/log.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +21,23 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/log.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="413">
+                    <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py">
+            <entry file="file://$PROJECT_DIR$/Module1/Day14/M01D14_challenge_soln.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="506">
-                  <caret line="36" selection-start-line="36" selection-end-line="36" />
+                <state relative-caret-position="210">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
                 </state>
               </provider>
             </entry>
@@ -34,24 +46,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/log.md">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Module1/Day14/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="308">
-                    <caret line="43" column="137" selection-start-line="43" selection-start-column="137" selection-end-line="43" selection-end-column="137" />
-                  </first_editor>
+                <state split_layout="SECOND">
+                  <first_editor />
                   <second_editor />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Module1/Day09/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SECOND">
-                  <first_editor />
-                  <second_editor />
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Module1/Day14/module1_day14_challenge_soln.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="62">
+                  <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -74,8 +83,13 @@
         <option value="$PROJECT_DIR$/Module1/Day06/module1_day06_lists.py" />
         <option value="$PROJECT_DIR$/Module1/Day07/module1_day07_ranges.py" />
         <option value="$PROJECT_DIR$/Module1/Day08/module1_day08_tuples.py" />
-        <option value="$PROJECT_DIR$/log.md" />
         <option value="$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py" />
+        <option value="$PROJECT_DIR$/Module1/Day10/M01D10_ifelse.py" />
+        <option value="$PROJECT_DIR$/Module1/Day11/MO1D11_augAssign.py" />
+        <option value="$PROJECT_DIR$/Module1/Day12/M01D12_loops.py" />
+        <option value="$PROJECT_DIR$/Module1/Day13/M01D13_continueBreak.py" />
+        <option value="$PROJECT_DIR$/log.md" />
+        <option value="$PROJECT_DIR$/Module1/Day14/M01D14_challenge_soln.py" />
       </list>
     </option>
   </component>
@@ -84,12 +98,15 @@
     <option name="width" value="1680" />
     <option name="height" value="961" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,17 +123,32 @@
               <item name="100DaysPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="100DaysPython" type="462c0819:PsiDirectoryNode" />
               <item name="Module1" type="462c0819:PsiDirectoryNode" />
-              <item name="Day09" type="462c0819:PsiDirectoryNode" />
+              <item name="Day13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100DaysPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100DaysPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="Day14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100DaysPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="100DaysPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -132,8 +164,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.module1_day09_slicing">
-    <configuration name="module1_day05_strFormat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.M01D13_continueBreak">
+    <configuration name="M01D10_ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day05/module1_day05_strFormat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day10/M01D10_ifelse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module1_day06_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="M01D12_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day06/module1_day06_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day12/M01D12_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module1_day07_ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="M01D13_continueBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day07/module1_day07_ranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day13/M01D13_continueBreak.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module1_day08_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MO1D11_augAssign" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module1/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day08/module1_day08_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module1/Day11/MO1D11_augAssign.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.M01D13_continueBreak" />
+        <item itemvalue="Python.M01D12_loops" />
+        <item itemvalue="Python.MO1D11_augAssign" />
+        <item itemvalue="Python.M01D10_ifelse" />
         <item itemvalue="Python.module1_day09_slicing" />
-        <item itemvalue="Python.module1_day08_tuples" />
-        <item itemvalue="Python.module1_day07_ranges" />
-        <item itemvalue="Python.module1_day06_lists" />
-        <item itemvalue="Python.module1_day05_strFormat" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +305,12 @@
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13492064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2032967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,20 +459,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day10/M01D10_ifelse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day10/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day10/module1_day10_ifElse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day11/module1_day11_augAssign.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day11/MO1D11_augAssign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day11/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day12/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="-490" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day12/M01D12_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/log.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="43" column="137" selection-start-line="43" selection-start-column="137" selection-end-line="43" selection-end-column="137" />
+          <first_editor relative-caret-position="413">
+            <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Module1/Day09/module1_day09_slicing.py">
+    <entry file="file://$PROJECT_DIR$/Module1/Day13/M01D13_continueBreak.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day13/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day14/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day14/module1_day14_challenge_soln.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="62">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/Day14/M01D14_challenge_soln.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
