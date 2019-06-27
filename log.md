@@ -64,24 +64,24 @@
 **Learned:** Continue and break actions.
 
 # Day 14: Module 1 Challenge
-**Completion Date:** 
+**Completion Date:** 2019-06-14 
 
-**Learned:** 
+**Learned:** Used all learnings from Module 1 to complete challenge.
 
 # Day 15: Dictionaries
-**Completion Date:** 
+**Completion Date:** 2019-06-25
 
-**Learned:** 
+**Learned:** Learned about dictionaries and how to manipulate values within them.
 
 # Day 16: Sets
-**Completion Date:** 
+**Completion Date:** 2019-06-27 
 
-**Learned:** 
+**Learned:** About sets which are mutable.
 
 # Day 17: User Input
-**Completion Date:** 
+**Completion Date:** 2019-06-27
 
-**Learned:** 
+**Learned:** About user input and played a game.
 
 # Day 18: Packages
 **Completion Date:** 
