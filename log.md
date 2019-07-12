@@ -88,47 +88,47 @@
 
 **Learned:** 
 
-# Day 19: Functions
+# Day 19: File Input/Output
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 20: File Input/Output
+# Day 20: Functions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 21: _Topic_
+# Day 21: Pytest
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 22: _Topic_
+# Day 22: Recursive Functions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 23: _Topic_
+# Day 23: Lambdas
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 24: _Topic_
+# Day 24: Object-Oriented Programming
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 25: _Topic_
+# Day 25: List Comprehensions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 26: _Topic_
+# Day 26: Map, Filter, and Zip
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 27: _Topic_
+# Day 27: Logging
 **Completion Date:** 
 
 **Learned:** 
@@ -138,67 +138,67 @@
 
 **Learned:** 
 
-# Day 29: _Topic_
+# Day 29: File Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 30: _Topic_
+# Day 30: File Search
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 31: _Topic_
+# Day 31: CSV Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 32: _Topic_
+# Day 32: Excel Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 33: _Topic_
+# Day 33: PDF Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 34: _Topic_
+# Day 34: PowerPoint Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 35: _Topic_
+# Day 35: Task Scheduler
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 36: _Topic_
+# Day 36: Email/SMS Notifications
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 37: _Topic_
+# Day 37: Mouse/Keyboard Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 38: _Topic_
+# Day 38: API Integration
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 39: _Topic_
+# Day 39: Web Scraping
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 40: _Topic_
+# Day 40: Image Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 41: _Topic_
+# Day 41: Creating a Chatbot
 **Completion Date:** 
 
 **Learned:** 
